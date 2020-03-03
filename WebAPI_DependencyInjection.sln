@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_DependencyInjection", "WebAPI_DependencyInjection.csproj", "{8E9E33C2-2122-414F-8841-8A881EEEAF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{880C029A-5860-4B10-B418-A16032713966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9E33C2-2122-414F-8841-8A881EEEAF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9E33C2-2122-414F-8841-8A881EEEAF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9E33C2-2122-414F-8841-8A881EEEAF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9E33C2-2122-414F-8841-8A881EEEAF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880C029A-5860-4B10-B418-A16032713966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880C029A-5860-4B10-B418-A16032713966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880C029A-5860-4B10-B418-A16032713966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880C029A-5860-4B10-B418-A16032713966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35553D02-471C-4034-860D-53D663BDFB2E}
+	EndGlobalSection
+EndGlobal
